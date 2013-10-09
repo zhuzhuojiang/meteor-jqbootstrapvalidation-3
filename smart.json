@@ -1,0 +1,8 @@
+{
+	"name": "jqbootstrapvalidation-3",
+	"description": "jqBootstrapValidation, packaged for Meteor Bootrap-3",
+	"homepage": "https://github.com/zhuzhuojiang/meteor-jqbootstrapvalidation-3",
+	"author": "Joe Zhu",
+	"version": "0.1.0",
+	"git": "https://github.com/zhuzhuojiang/meteor-jqbootstrapvalidation-3.git"
+}
